@@ -1,0 +1,65 @@
+/* For WebKit/Blink browsers */
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #333; /* Dark background color */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #666; /* Darker color for the scrollbar */
+    border-radius: 6px;
+  }
+  
+  /* For Firefox */
+  html {
+    scrollbar-color: #666 #333; /* Darker color for the thumb, dark background color for the track */
+  }
+  
+  /* For Edge */
+  body {
+    scrollbar-color: #666 #333; /* Darker color for the thumb, dark background color for the track */
+  }
+  
+
+.red_border{
+    border: 1px solid red;
+}
+.flex{
+    display: flex;
+}
+.display
+{
+    display: flex;
+}
+.justify{
+    justify-content: center;
+}
+.align_items{
+    align-items: center;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.invert
+{
+    filter: invert(1);
+}
+.bg-grey{
+    background-color: #121212;
+    color: white;
+}
+.rounded{
+    border-radius: 7px;
+}
+.m1{
+    margin: 10px;
+}
+.p1{
+    padding: 10px;
+}
+.w1{
+    width: 25px;
+}
