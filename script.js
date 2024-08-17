@@ -4,7 +4,7 @@ var currentSong = new Audio();
 var x;
 let songs;
 var currFolder;
-let link="https://github.com/Rohit-Rasal/Spotify-clone-json/blob/main";
+let link="https://github.com/Rohit-Rasal/Spotify-clone-json/blob/";
 
 function convertSecondsToMinutesSeconds(totalSeconds) {
     var minutes = Math.floor(totalSeconds / 60);
