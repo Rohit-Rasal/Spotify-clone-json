@@ -31,8 +31,4 @@ This Spotify Clone is fully responsive and adapts to different screen sizes, ens
 - **songs.json**: The JSON file that contains song data.
 - **assets/**: Directory containing SVG icons and images.
 
-## 💡 Getting Started
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/spotify-clone.git
